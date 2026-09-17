@@ -1,1 +1,2 @@
 # Evaluaci-n-Aplicaciones---Responsive
+Al final termine usando Claude para resolver el problema del espacio en blanco, aclarándole que no quería que toque nada de lo que yo ya habia hecho, solo que coloque el sidebar en el lado izquierdo y que arme todo junto, ademas de que optimice el uso de divs. A partir de ahi, cree la mini conversación y después el responsive. No se me ocurría como hacer un responsive para celular con el chat, por lo que hice que desapareciera en esa vista (Aprovechando que ahora todo estaba organizado con flex) y solo mostrara la lista de chats
